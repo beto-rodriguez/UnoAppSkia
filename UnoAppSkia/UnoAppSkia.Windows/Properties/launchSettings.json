@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnoAppSkia.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
